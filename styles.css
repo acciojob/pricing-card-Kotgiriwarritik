@@ -1,1 +1,32 @@
 /*  your css code here. If applicable */
+.card{
+	height:400px;
+	width: 270px;
+/* 	border: 2px solid black; */
+	box-shadow: 2px 2px 9px black;
+	border-radius: 7px;
+}
+img{
+	margin: 13px;
+	height: 50%;
+	width: 90%;
+	margin-bottom: 0px;
+}
+p{
+	text-align: center;
+	margin: 9px;
+	font-size: 20px;
+	margin-top: 0px;
+}
+h1{
+		text-align: center;
+	margin-bottom: 0px;
+}
+button{
+	background: tomato;
+	border: none;
+	color: white;
+	height:30px;
+	border-radius: 7px;
+	margin-left:38%;
+}
